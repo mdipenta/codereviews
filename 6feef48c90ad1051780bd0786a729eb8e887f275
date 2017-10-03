@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8402f7f9_65c96b2d",
+        "filename": "b.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1012490
+      },
+      "writtenOn": "2017-10-03T09:31:11Z",
+      "side": 1,
+      "message": "This should be changed",
+      "revId": "6feef48c90ad1051780bd0786a729eb8e887f275",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
