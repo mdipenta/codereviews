@@ -17,3 +17,4 @@ change on a
 
 Master changed A
 again on a
+I'm now doing some changes on A
